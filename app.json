@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "Hyder Properties",
+    "slug": "HyderProperties",
+    "privacy": "public",
+    "description": "Mobile Application for Hyder Properties",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./App/Assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./App/Assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./App/Assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
