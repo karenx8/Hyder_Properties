@@ -1,0 +1,44 @@
+.top{
+  background-color: #d91f22;
+  height: 80px;
+}
+
+body{
+  padding: 50;
+  font-family: sans-serif;
+  display: flex;
+}
+
+/*Buttons*/
+.btn {
+  background-color: #0a83b0;
+  border: none;
+  color: white;
+  text-align: center;
+  display: inline-block;
+  font-size: 20px;
+  border-radius: 12px;
+  width: 90px;
+  height: 50px;
+}
+
+.placement{
+  padding: 100px;
+}
+
+/*Input Box*/
+input, textarea {
+  background-color: #c9deec;
+  border: 1px solid #3e9dc4;
+  height: 40px;
+  width: 200px;
+}
+
+/*Morgage Calculator*/
+.edit{
+  background-color: lightgray;
+  width: 280px;
+  flex: auto;
+  align-self: 'center';
+  justify-content: 'center';
+}
